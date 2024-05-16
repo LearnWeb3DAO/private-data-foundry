@@ -3,7 +3,6 @@ pragma solidity ^0.8.25;
 
 import {Test} from "forge-std/Test.sol";
 import {Login} from "../src/Login.sol";
-import {console} from "forge-std/console.sol";
 
 
 contract AccessPrivateData is Test {
